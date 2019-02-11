@@ -1,3 +1,7 @@
+WARNING: this fork is only for my experiment using this library with AJV 6.8.1 (because I plan to use with NextJS that uses AJV 6.1.0.
+
+For authoritative version, go to: https://github.com/mozilla-services/react-jsonschema-form
+
 react-jsonschema-form
 =====================
 
